@@ -1,0 +1,14 @@
+pojo\WebAutomation.class
+resources\enumClass.class
+API\RestAPIFramework\AppTest.class
+pojo\SerializationLocationSubJson.class
+pojo\CoursesSubJson.class
+pojo\Api.class
+resources\TestDataBuild.class
+pojo\Mobile.class
+stepDefinitions\Hooks.class
+pojo\SerializationAddPlace.class
+pojo\GetCourse.class
+resources\Utils.class
+stepDefinitions\stepDefinitions.class
+cucumber\Options\TestRunner.class
